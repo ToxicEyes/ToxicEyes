@@ -3,12 +3,10 @@
 
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Dev <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-I'm a Computer Science Enthusiast  👨‍💻, Currently in my final year  at Ahmedabad Institute of Technology, Looking for Internship/Job opportunities 👨‍🎓
-
+I'm a CS Graduate 👨‍💻, Full Stack Developer, Looking for Job opportunities 👨‍🎓
 - 🔭 I’m currently working on taking rest  
-- 🌱 I’m currently learning about React JS and Next JS
-- 🤔 I’m looking for help in learning about Web Dev and ReactJS
-- 💬 Ask me about anything and everything 
+- 🌱 Exploring microservices architecture and containerization with Docker & Kubernetes
+- 🛠️ Strengthening my skills in backend development
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devpathak121202@gmail.com)](mailto:devpathak121202@gmail.com)
 - ⚡ Fun fact: Jack of all trades , Master of Some ! 
 
